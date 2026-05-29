@@ -1,0 +1,1 @@
+{"name": "aether", "version": "0.1.0", "private": true, "scripts": {"dev": "next dev -p 5173", "build": "next build", "start": "next start", "lint": "eslint"}, "dependencies": {"cmdk": "^1.1.1", "date-fns": "^4.3.0", "framer-motion": "^12.40.0", "lucide-react": "^1.17.0", "next": "16.2.6", "react": "19.2.4", "react-dom": "19.2.4", "react-hot-toast": "^2.6.0", "sonner": "^2.0.7"}}
